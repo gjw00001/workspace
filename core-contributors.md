@@ -19,5 +19,5 @@ Core Contributors 核心贡献者
 | 楼兰渔夫 | | | Yes | - |
 | 张恩畅 | | | Yes | - |
 | li17 | | | Yes | - |
-| 火星 | | | Yes | - |
+| 火星 | @gjw00001 | gjw00001(at) 126.com| Yes | - |
 | 严光红 | | | Yes | - |
